@@ -1,9 +1,8 @@
-<div style="width: 100%; text-align: center; display: flex; justify-content: center; flex-direction: column;">
+<div style="display: flex; justify-content: center; flex-direction: column;">
 <img src="./assets/images/banner_en.svg" alt="Distro Foundation | Powered by Zhino.dev" width="100%"/>
 <h2>Distro Foundation</h2>
 <h4>Truly Open Source | Powered by Zhino</h4>
-<p>🌐 Languages 🌐</p>
-<p><a href="https://github.com/distrofdn">English</a> | <a href="https://github.com/distrofdn/distro_fa.md">Farsi</a></p>
+<p><a href="https://github.com/distrofdn">English</a> | <a href="https://github.com/distrofdn/README.FA.md">Farsi</a></p>
 </div>
 
 ## Content
