@@ -2,7 +2,7 @@
 <img src="./assets/images/banner_fa.svg" alt="Distro Foundation | Powered by Zhino.dev" width="100%"/>
 <h2>بنیاد دیسترو</h2>
 <h4>قدرت گرفته از ژینو</h4>
-<p><a href="https://github.com/distrofdn">English</a> | <a href="https://github.com/distrofdn/README.FA.md">Farsi</a></p>
+<p><a href="https://github.com/distrofdn">English</a> | <a href="https://github.com/DistroFdn/DistroFdn/blob/main/README.FA.md">Farsi</a></p>
 
 ## مطالب
 - [🚀 درباره دیسترو](#overview)
@@ -13,7 +13,7 @@
 
 ## درباره دیسترو
 <div id="overview"></div>
-Distro (Distro Foundation) is a foundation for supporting the Open Source world, producing and monitoring projects beneficial to the development communities of the world. By creating new ideas and implementing different ideas and releasing them for free in the world, the Distro has taken a step in the development of Iran's Open Source communities.
+Distro (بنیاد Distro) یک بنیاد برای حمایت از دنیای متن‌باز است که به تولید و نظارت بر پروژه‌های مفید برای جوامع توسعه‌دهنده در سراسر جهان می‌پردازد. با ایجاد ایده‌های جدید، پیاده‌سازی ایده‌های مختلف، و انتشار رایگان آن‌ها در جهان، Distro گامی در جهت توسعه جوامع متن‌باز ایران برداشته است.
 
 ## اساسنامه
 <div id="charter"></div>
@@ -112,7 +112,7 @@ Lime (بزودی)
 <div id="contact"></div>
 جهت ارتباط و ارسال انتقادات یا پیشنهادات خود با ایمیل زیر در ارتباط باشید.
 
-distro@zhino.dev
+<distro@zhino.dev>
 
 نظر شما به بهبودی و ارتقا سطح کیفیت کار ما یاری خواهد نمود.
 

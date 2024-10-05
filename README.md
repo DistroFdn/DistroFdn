@@ -2,7 +2,7 @@
 <img src="./assets/images/banner_en.svg" alt="Distro Foundation | Powered by Zhino.dev" width="100%"/>
 <h2>Distro Foundation</h2>
 <h4>Truly Open Source | Powered by Zhino</h4>
-<p><a href="https://github.com/distrofdn">English</a> | <a href="https://github.com/distrofdn/README.FA.md">Farsi</a></p>
+<p><a href="https://github.com/distrofdn">English</a> | <a href="https://github.com/DistroFdn/DistroFdn/blob/main/README.FA.md">Farsi</a></p>
 </div>
 
 ## Content
@@ -150,6 +150,6 @@ Lime (Soon)
 <div id="contact"></div>
 You can reach out to us with your feedback and suggestions at this email address. 
 
-Our email address: distro@zhino.dev
+Our email address: <distro@zhino.dev>
 
 Your input is valuable in enhancing our work.
